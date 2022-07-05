@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/restaurant-website/static/css/main.4f24c20c.css",
+    "main.js": "/restaurant-website/static/js/main.3264ca74.js",
+    "static/media/meal.mp4": "/restaurant-website/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/findus.png": "/restaurant-website/static/media/findus.585c393ccd3671513743.png",
+    "static/media/gallery04.png": "/restaurant-website/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/restaurant-website/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/restaurant-website/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/welcome.png": "/restaurant-website/static/media/welcome.e2d2024270fbd2e5d13f.png",
+    "static/media/gallery01.png": "/restaurant-website/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/chef.png": "/restaurant-website/static/media/chef.3e1c5c752f3502570f8c.png",
+    "static/media/bg.png": "/restaurant-website/static/media/bg.61204d56639cbf0470a7.png",
+    "static/media/laurels.png": "/restaurant-website/static/media/laurels.0697f6eef88c11fd600b.png",
+    "static/media/knife.png": "/restaurant-website/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/menu.png": "/restaurant-website/static/media/menu.2a9968ff14b4d28befb9.png",
+    "static/media/award.png": "/restaurant-website/static/media/award.3a147ac75c436c73765f.png",
+    "static/media/sign.png": "/restaurant-website/static/media/sign.865a8e0e181373dcca5a.png",
+    "static/media/M.png": "/restaurant-website/static/media/M.9ee27ce8e2f83927f8ee.png",
+    "index.html": "/restaurant-website/index.html",
+    "static/media/spoon.svg": "/restaurant-website/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.4f24c20c.css.map": "/restaurant-website/static/css/main.4f24c20c.css.map",
+    "main.3264ca74.js.map": "/restaurant-website/static/js/main.3264ca74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f24c20c.css",
+    "static/js/main.3264ca74.js"
+  ]
+}
